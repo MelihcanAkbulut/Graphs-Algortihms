@@ -1,4 +1,3 @@
-// NOT : odev 2. odev kodunun uzerine ek olarak yazilmistir.
 // Kod kismindaki gerekli ' /* */ ' seklindeki yorum satirlarini kaldirirsaniz grafin en kisa yollarini da gorebilirsiniz
 #include <iostream>
 #include <math.h>
@@ -182,10 +181,7 @@ int main()
     {
         dijkstra(i);
     }
-/*
-    cout<< "Kaynak-Hedef \t\tMesafe \t\t\t Rota\n"<<endl;
-    cout<<"Odevde butun dugum ciftleri arasinda en kisa yollar hesaplanmis olup ilgili 0-19 bulunduktan sonra \n 19-0 hesaba katilmamistir. Saygilarimla"<<endl;
-*/
+
 /*    for(int i = 0; i < 20; i++)
     {
         cout<<i<<". dugum kaç kisa yol uzerindedir? = "<<kisayol[i]<<endl;

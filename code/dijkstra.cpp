@@ -171,6 +171,6 @@ int main()
     }
 
     cout<< "Kaynak-Hedef \t\tMesafe \t\t\t Rota\n"<<endl;
-    cout<<"Odevde butun dugum ciftleri arasinda en kisa yollar hesaplanmis olup ilgili 0-19 bulunduktan sonra \n 19-0 hesaba katilmamistir. Saygilarimla"<<endl;
+    cout<<"Butun dugum ciftleri arasinda en kisa yollar hesaplanmis olup ilgili 0-19 bulunduktan sonra \n 19-0 hesaba katilmamistir."<<endl;
     return 0;
 }
